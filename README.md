@@ -43,6 +43,7 @@ The complete Lab 1 report is available below:
 
 ### Student Details
 - Name: Porla Neha
+- SRN: PES1UG25AM808
 - Section: C
 - Semester: 5
 
