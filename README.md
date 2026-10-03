@@ -81,6 +81,6 @@ All four Project Leaderboard Management user stories were assigned to **Sprint 2
 - Sprint 2 Burndown Chart
 - Reflection and conclusion
 
-### The complete Lab 1 report is available below:
+### The complete Lab 2 report is available below:
 
 **[Lab 2 Final report](./Lab2_PS4_PES1UG25AM808_PorlaNeha.pdf)**
