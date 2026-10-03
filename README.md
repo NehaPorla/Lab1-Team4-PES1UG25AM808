@@ -41,7 +41,7 @@ The complete Lab 1 report is available below:
 ## Problem Statement 4 – Student Project Portfolio & Showcase App
 
 ### Student Details
-- Name: Pradeep R
+- Name: Porla Neha
 - Section: C
 - Semester: 5
 
